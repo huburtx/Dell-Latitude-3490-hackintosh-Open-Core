@@ -3,7 +3,7 @@
 </br>
 ![Banner](https://github.com/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2/blob/master/GHContents/banner2.jpg)
 
- 
+##  
 | Component | Details                                                                                                         |
 |:--------------:|:------------------------------------------------------------------------------------------------------------------:|
 |Model |  Dell Latitude 3490 **2018**|
