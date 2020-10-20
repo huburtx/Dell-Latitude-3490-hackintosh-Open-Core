@@ -57,7 +57,7 @@
 </br>
 
 
-## Post install
+## Post installation
    1. Install `ComboJack` to improve the headphone sound quality and enable audio from jack. 
       - [Click HERE](https://github.com/Heporis/ComboJack) to download. Credit to [Heporis](https://github.com/Heporis).
       - Execute the script in the directory below
