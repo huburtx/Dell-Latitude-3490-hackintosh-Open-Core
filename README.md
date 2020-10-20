@@ -1,0 +1,1 @@
+# Dell-Latitude-3490-hackintosh-Open-Core-0.6.2
