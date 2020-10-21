@@ -1,4 +1,4 @@
-# Dell-Latitude-3490-hackintosh-Open-Core-0.6.2
+# Dell-Latitude-3490-hackintosh-Open-Core
 ![Banner1](https://github.com/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2/blob/main/GHContents/banner1.jpg)
 </br>
 ![Banner2](https://github.com/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2/blob/main/GHContents/banner2.jpg)
@@ -16,6 +16,7 @@
 |SSD | Sabrent M2 NVMe 256GB **(replaced)**<br>|
 | LCD | FHD 1920*1080|
 |SMBIOS | MacBookPro15,2|
+| Bootloader | Open Core 0.6.2 |
 | BIOS | 1.10.0 |
 --------
 ### ⚠️I DON‘T have this laptop. 
