@@ -7,7 +7,7 @@
 | **Component** | **Details**                                                                                                         |
 |:--------------:|:------------------------------------------------------------------------------------------------------------------:|
 |Model |  Dell Latitude 3490 **(2018)**|
-| CPU |    Intel Core i5 8250U (Kaby Lake) |
+| CPU |    Intel Core i5 8250U (Whiskey Lake) |
 | GPU | Intel UHD620 |
 |RAM  |    (2x8) 16GB DDR4 **(8 added)**|
 | Wireless / BT  | Broadcom DW1560 (BCM94352Z) **(replaced)**<br>|
