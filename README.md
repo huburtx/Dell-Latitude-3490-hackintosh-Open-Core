@@ -21,7 +21,7 @@
 --------
 ### ⚠️I DON‘T have this laptop. 
 ### ⚠️The repo is created out of interest.
-### ⚠️PR, Fork, issue are welcomed if you want contribute.
+### ⚠️PR, Fork, issue are welcomed if you want to contribute.
 
 
 ## What's working
