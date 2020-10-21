@@ -1,7 +1,7 @@
 # Dell-Latitude-3490-hackintosh-Open-Core-0.6.2
 ![Banner1](https://github.com/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2/blob/main/GHContents/banner1.jpg)
 </br>
-![Banner2](https://github.com/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2/blob/master/GHContents/banner2.jpg)
+![Banner2](https://github.com/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2/blob/main/GHContents/banner2.jpg)
 </br>
 ##  
 | Component | Details                                                                                                         |
