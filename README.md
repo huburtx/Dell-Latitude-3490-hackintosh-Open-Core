@@ -4,7 +4,7 @@
 ![Banner2](https://github.com/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2/blob/main/GHContents/banner2.jpg)
 </br>
 ##  
-| ***Component | Details***                                                                                                         |
+| **Component | Details**                                                                                                         |
 |:--------------:|:------------------------------------------------------------------------------------------------------------------:|
 |Model |  Dell Latitude 3490 **(2018)**|
 | CPU |    Intel Core i5 8250U (Kaby Lake) |
