@@ -16,7 +16,7 @@
 |SSD | Sabrent M2 NVMe 256GB **(replaced)**<br>|
 | LCD | FHD 1920*1080|
 |SMBIOS | MacBookPro15,2|
-| Bootloader | Open Core 0.6.2 |
+| Bootloader | Open Core 0.6.3 |
 | BIOS | 1.10.0 |
 --------
 ### ⚠️I DON‘T have this laptop. 
