@@ -10,7 +10,7 @@ cd "$( dirname "${BASH_SOURCE[0]}" )"
 # Clean legacy stuff
 #
 sudo launchctl unload /Library/LaunchDaemons/com.XPS.ComboJack.plist 2>/dev/null
-sudo rm -rf /Library/Extensions/CodecCommander.kext
+#sudo rm -rf /Library/Extensions/CodecCommander.kext
 sudo rm -f /usr/local/bin/ALCPlugFix
 sudo rm -f /Library/LaunchAgents/good.win.ALCPlugFix
 sudo rm -f /Library/LaunchDaemons/good.win.ALCPlugFix
@@ -20,8 +20,8 @@ sudo rm -f /usr/local/share/ComboJack/l10n.json
 
 # install
 sudo spctl --master-disable
-sudo mount -uw /
-sudo killall Finder
+#sudo mount -uw /
+#sudo killall Finder
 mkdir -p /usr/local/sbin
 sudo cp ComboJack /usr/local/sbin
 sudo chmod 755 /usr/local/sbin/ComboJack
