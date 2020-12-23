@@ -16,7 +16,7 @@
 |SSD | Sabrent M2 NVMe 256GB **(replaced)**<br>|
 | LCD | FHD 1920*1080|
 |SMBIOS | MacBookPro15,2|
-| Bootloader | Open Core 0.6.3 |
+| Bootloader | Open Core 0.6.4 |
 | BIOS | 1.10.0 |
 --------
 ### ⚠️I DON‘T have this laptop. 
@@ -45,25 +45,25 @@
 </br>
 
 
-## What's not working 
+## What's not working
 -  Fingerprint sensor
 -  SD card reader
 </br>
 
 ## Working with issues
-- Line in (Mic in) of headphone jack 
+- Line in (Mic in) of headphone jack
    - The `internal mic` and `line in` share the same node. In Windows, the switch is done by the driver. Need further research. If you want some layout-id can disable the internal mic.
 
 </br>
 
 
 ## Post installation
-   1. Install `ComboJack` to improve the headphone sound quality and enable audio from jack. 
+   1. Install `ComboJack` to improve the headphone sound quality and enable audio from jack.
       - [Click HERE](https://github.com/Heporis/ComboJack) to download. Credit to [Heporis](https://github.com/Heporis).
       - Execute the script in the directory below
-         
+
          > ComboJack_Installer/install.sh
-   
+
    **ONLY IF YOU HAVEN'T DW1560**
 
    2. **Realtek USB NIC Driver by [chris111](https://github.com/chris1111)**：[Link](https://github.com/chris1111/Wireless-USB-Adapter/files/4301778/Wireless.USB.Adapter-V11.zip)  
@@ -75,7 +75,7 @@
 
 </br>
 
-## Download 
+## Download
    Download from Release：
 
    - [![Release](https://img.shields.io/github/release/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2.svg)](https://github.com/huburtx/Dell-Latitude-3490-hackintosh-Open-Core-0.6.2/releases)
@@ -95,7 +95,7 @@ ____________
    - [VoodooPS2](https://github.com/acidanthera/VoodooPS2)
    - [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
    - [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-   
+
 - [Alex James](https://github.com/al3xtjames) for
    - [NoTouchID](https://github.com/al3xtjames/NoTouchID)
 
